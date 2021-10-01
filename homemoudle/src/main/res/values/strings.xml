@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">图片美颜</string>
+    <string name="app_name">myjetpackmvvm</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="bottom_name1">首页</string>

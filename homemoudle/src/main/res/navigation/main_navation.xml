@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_navation"
+    app:startDestination="@id/mainfragment">
+
+    <fragment
+        android:id="@+id/mainfragment"
+        android:name="com.visen.homemoudle.fragment.MainFragment"
+        android:label="MainFragment" />
+
+    <fragment
+        android:id="@+id/wenzhangdetail"
+        android:name="com.visen.homemoudle.fragment.WenZhangDetailFragment"
+        android:label="WenZhangDetailFragment" />
+
+    <fragment
+        android:id="@+id/choicenessfragment"
+        android:name="com.visen.homemoudle.fragment.ChoicenessFragment"
+        android:label="ChoicenessFragment" />
+
+    <action
+        android:id="@+id/action_to_wenzhangdetail"
+        app:destination="@id/wenzhangdetail"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left"
+        app:popEnterAnim="@anim/slide_in_left"
+        app:popExitAnim="@anim/slide_out_right" />
+
+    <action
+        android:id="@+id/action_to_choiceness"
+        app:destination="@id/choicenessfragment"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left"
+        app:popEnterAnim="@anim/slide_in_left"
+        app:popExitAnim="@anim/slide_out_right" />
+</navigation>

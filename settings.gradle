@@ -1,0 +1,2 @@
+include ':JetpackMvvm', ':homemoudle'
+rootProject.name = "TuPianMY"

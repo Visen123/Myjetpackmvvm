@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E8AA00</color>
+    <color name="colorPrimaryDark">#E8AA00</color>
+    <color name="colorAccent">#FDD000</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="white">#ffffff</color>
+    <color name="whites">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bottom_txt">#1E1E1E</color>
+    <color name="bottom_stdtxt">#1E1E1E</color>
+    <color name="bottom_txt_selector">#FDD000</color>
+    <color name="gray_tab">#848484</color>
+    <color name="gray_txt">#5D5D5D</color>
+    <color name="message_gray_txt">#ABABAB</color>
+    <color name="trans_color">#aa999999</color>
+    <color name="yellowtxt">#FFAA00</color>
+    <color name="yellowbg">#FDD401</color>
+    <color name="graybg">#D5D5D5</color>
+    <color name="line_yellow">#FFAA00</color>
+    <color name="xieyi_blue">#0055FF</color>
+    <color name="colorGray">#333</color>
+
+    <color name="gray_lightest">#DEDEDE</color>
+    <color name="gray_light">#F2F2F2</color>
+    <color name="gray_dark">#666666</color>
+    <color name="gray_deep_dark">#333333</color>
+    <color name="gray_et">#404040</color>
+    <color name="gray_ty">#A8A8A8</color>
+
+    <color name="blue_medium">#44A2FC</color>
+    <color name="blue_light">#0ECFFF</color>
+    <color name="blue_sky">#169BD5</color>
+    <color name="blue_alpha">#ffffff</color>
+
+    <color name="dark_black">#CC262626</color>
+    <color name="black_half_transparent">#66000000</color>
+    <color name="black_full_transparent">#22000000</color>
+
+
+    <color name="theme">@color/coffee</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- 80%透明黑色-->
+    <color name="alpha_black_100_percent">#FF000000</color>
+    <color name="alpha_black_95_percent">#F2000000</color>
+    <color name="alpha_black_90_percent">#E6000000</color>
+    <color name="alpha_black_85_percent">#D9000000</color>
+    <color name="alpha_black_80_percent">#cc000000</color>
+    <color name="alpha_black_70_percent">#b2000000</color>
+    <color name="alpha_black_60_percent">#99000000</color>
+    <color name="alpha_black_50_percent">#7a000000</color>
+    <color name="alpha_black_40_percent">#66000000</color>
+    <color name="alpha_black_30_percent">#4c000000</color>
+    <color name="alpha_black_15_percent">#21000000</color>
+    <color name="alpha_black_10_percent">#1A000000</color>
+    <color name="alpha_black_5_percent">#0D000000</color>
+    <color name="alpha_black_0_percent">#00000000</color>
+
+    <color name="alpha_yellow_40_percent">#66ffc903</color>
+
+    <!--10%白色-->
+    <color name="alpha_white_10_percent">#1affffff</color>
+    <!--20%白色-->
+    <!--40%白色-->
+    <color name="alpha_white_40_percent">#66ffffff</color>
+    <!--50%白色-->
+    <color name="alpha_white_50_percent">#7affffff</color>
+
+    <color name="popup_window_bg">@color/alpha_black_50_percent</color>
+
+    <color name="black_121212">#121212</color>
+    <color name="black_231D13">#231D13</color>
+    <color name="black_666666">#666666</color>
+    <color name="black_FFB1B1B1">#FFB1B1B1</color>
+    <color name="black_FFE6E6E6">#FFE6E6E6</color>
+    <color name="brown">#2f2f2e</color>
+    <color name="brown_763e0c">#763e0c</color>
+    <color name="brick_red">#f6454b</color>
+    <color name="red">#FF2020</color>
+    <color name="red_a90c2d">#A90C2D</color>
+    <color name="red_ff4d44">#ff4d44</color>
+    <color name="red_ff7365">#ff7365</color>
+    <color name="red_99ff7365">#99ff7365</color>
+    <color name="blue">#1E78FF</color>
+    <color name="gray">#868686</color>
+    <color name="gray_666666">#666666</color>
+    <color name="gray_d1d1d1">#d1d1d1</color>
+    <color name="gray_yellow">#dad4c5</color>
+    <color name="gray_yellow_60p">#99dad4c5</color>
+    <color name="gray_b9aba0">#b9aba0</color>
+    <color name="gray_999999">#999999</color>
+    <color name="gray_b1b1b1">#BBBBBB</color>
+    <color name="gray_74">#747474</color>
+    <color name="gray_d2d2d2">#D2D2D2</color>
+    <color name="gray_6b_cf">#6BCFCFCF</color>
+    <color name="gray_f5f3ee">#f5f3ee</color>
+    <color name="gray_f2f0ea">#f2f0ea</color>
+    <color name="gray_d5c8bb">#d5c8bb</color>
+    <color name="gray_dddddd">#dddddd</color>
+    <color name="gray_cccccc">#D7D7D7</color>
+    <color name="light_gray">#c2c2c2</color>
+    <color name="tiny_gray">#f2f2f7</color>
+    <color name="light_black">#231D13</color>
+    <color name="coffee">#231D13</color>
+    <color name="coffee_996E3D">#996E3D</color>
+    <color name="coffee_8c6441">#8c6441</color>
+    <color name="coffee_695422">#695422</color>
+    <color name="coffee_7E611E">#7E611E</color>
+    <color name="coffee_ff6e02">#FF6E02</color>
+    <color name="light_coffee">#efe9e5</color>
+    <color name="yellow">#fbb42d</color>
+    <color name="yellowshen">#FBD74D</color>
+    <color name="yellow_60p">#99fbb42d</color>
+    <color name="green">#92d564</color>
+    <color name="orange">#fab42d</color>
+    <color name="orange_ffa04b">#FFA04B</color>
+    <color name="green_60p">#9992d564</color>
+    <color name="orange_monitor_ff6f01">#ff6f01</color>
+    <color name="bg_news_label">#e1dcd0</color>
+    <color name="popu_bg">#66000000</color><!--  灰色  -->
+
+    <color name="wechat_login_normal">#34D173</color>
+    <color name="wechat_login_pressed">#9934D173</color>
+    <color name="huawei_login_normal">#E62158</color>
+    <color name="huawei_login_pressed">#99E62158</color>
+
+    <!--actionbar相关-->
+    <color name="actionbar_divider">#dfe1e3</color>
+
+    <!--描边相关-->
+    <color name="stroke">#dfe1e3</color>
+    <color name="stroke_avatar">#dfe1e3</color>
+    <color name="stroke_form">#e4e0d7</color>
+
+    <!--提示文字-->
+    <color name="hint_edittext">#c2c2c2</color>
+    <color name="hint">#868686</color>
+
+    <color name="price">@color/gray_999999</color>
+    <color name="price_oringe">#FF3E3E</color>
+    <color name="original_price">#b3b3b3</color>
+
+    <color name="divider">#e8e8e8</color>
+
+    <color name="btn_disable">#dddddd</color>
+
+
+    <color name="indicator">#FFFDD84D</color>
+
+    <color name="bg_member_label_normal">#FFDB01</color>
+    <color name="bg_member_label_unedit">#221D13</color>
+    <color name="bg_member_label_like_count">#85766a</color>
+
+
+    <!--背景颜色-->
+    <color name="bg_gray">#F0F0F0</color>
+    <color name="bg_gray_f4">#F4F4F4</color>
+    <color name="bg_unable">#c2c2c2</color>
+    <color name="bg_empty_data">#f5f3ed</color>
+
+    <!--链接-->
+
+    <!--字体颜色-->
+    <color name="text_property">@color/light_black</color>//属性：来源，时间，阅读数等
+    <color name="text_title">@color/light_black</color>//标题
+
+    <color name="text_disable">#dddddd</color>
+
+
+    <!--回复用户时，被回复用户的名字颜色-->
+    <color name="replier_name">#576b95</color>
+
+    <color name="popup_window_option_selected_color">#696969</color>
+
+    <color name="avatar_stroke_male">#62a5ff</color>
+    <color name="avatar_stroke_female">#ff7365</color>
+    <color name="avatar_stroke_vip">#ffae30</color>
+
+    <color name="red_ff4e45">#ff4e45</color>
+    <color name="gold_ffd78b">#ffd78b</color>
+    <color name="yellow_fcb42d">#fcb42d</color>
+
+    <color name="ripple">@color/gray_b9aba0</color>
+
+    <color name="black_2A3349">#2A3349</color>
+    <color name="black_424042">#424042</color>
+    <color name="black_29334A">#29334A</color>
+
+    <color name="gray_e6e6e6">#e6e6e6</color>
+    <color name="gray_eeeef1">#eeeef1</color>
+    <color name="gray_f7f7f7">#f7f7f7</color>
+    <color name="gray_b5b5b5">#b5b5b5</color>
+
+    <color name="blue_00AAEF">#00AAEF</color>
+    <color name="green_3BAF34">#3BAF34</color>
+
+    <color name="black_4d4d4d">#4d4d4d</color>
+    <color name="yellow_fff9da">#fff9da</color>
+    <color name="yellow_fffaef">#fffaef</color>
+    <color name="gold_EEC286">#EEC286</color>
+    <color name="select_color_ffdb01">#FFDB01</color>
+    <color name="purple">#990099</color>
+
+    <color name="yellow_ffc903">#FFC901</color>
+    <color name="line_bgcolor">#F2F2F2</color>
+    <color name="line_color_little_gray">#F2F2F2</color>
+    <color name="txt_detele_color">#FF1D1D</color>
+</resources>

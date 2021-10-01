@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="visen.yanyy.jetpackmvvm">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application>
+        <provider
+            android:authorities="${applicationId}.KtxInstaller"
+            android:name="visen.yanyy.jetpackmvvm.base.Ktx"
+            android:exported="false" />
+    </application>
+</manifest>

@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TuPianMY" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="md_corner_radius">12dp</item>
+    </style>
+
+    <style name="Theme.TuPianMY.FullscreenThemse" parent="Theme.TuPianMY">
+        <!--<item name="android:windowFullscreen">true</item>-->
+        <item name="android:windowBackground">@color/colorAccent</item>
+        <item name="md_corner_radius">12dp</item>
+    </style>
+</resources>

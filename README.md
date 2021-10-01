@@ -115,24 +115,29 @@ Android app完美架构：Jetpack+kotlin+MVVM+Retrofit+okhttp+dataBing+协程
           }
 
 ### 架构 Jetpack+kotlin+MVVM+Retrofit+okhttp+dataBing+协程
-具体做法请参考：com.visen.homemoudle.activity.MainActivity这个类文件
-jetpack里navigation
-要在fragment控件里加入
- 1、android:name="visen.yanyy.jetpackmvvm.navigation.NavHostFragmentHideShow"
- 2、  app:defaultNavHost="true"
- 3、app:navGraph="@navigation/main_navation"
 
- 如下所示：
-       <fragment android:id="@+id/host_fragment"
-                  android:name="visen.yanyy.jetpackmvvm.navigation.NavHostFragmentHideShow"
-                  android:layout_width="match_parent"
-                  android:layout_height="match_parent"
-                  app:defaultNavHost="true"
-                  app:navGraph="@navigation/main_navation" />
+   具体做法请参考：com.visen.homemoudle.activity.MainActivity这个类文件
+
+  jetpack里navigation写法：
+
+     要在fragment控件里加入
+       1、android:name="visen.yanyy.jetpackmvvm.navigation.NavHostFragmentHideShow"
+       2、app:defaultNavHost="true"
+       3、app:navGraph="@navigation/main_navation"
+
+            如下所示：
+                    <fragment android:id="@+id/host_fragment"
+                          android:name="visen.yanyy.jetpackmvvm.navigation.NavHostFragmentHideShow"
+                          android:layout_width="match_parent"
+                          android:layout_height="match_parent"
+                          app:defaultNavHost="true"
+                          app:navGraph="@navigation/main_navation" />
 
 
-   实现导航调用方法：
-    val nav = Navigation.findNavController(this@MainActivity, R.id.host_fragment)
+
+       实现导航调用方法：
+
+              val nav = Navigation.findNavController(this@MainActivity, R.id.host_fragment)
 
 ### 注意：使用该请求方式时需要注意，如果该ViewModel并不是跟Activity/Fragment绑定的泛型ViewModel，而是
     val mainViewModel:MainViewModel by viewModels()

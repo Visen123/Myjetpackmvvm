@@ -121,9 +121,9 @@ Android app完美架构：Jetpack+kotlin+MVVM+Retrofit+okhttp+dataBing+协程
   jetpack里navigation写法：
 
      要在fragment控件里加入
-       1、android:name="visen.yanyy.jetpackmvvm.navigation.NavHostFragmentHideShow"
-       2、app:defaultNavHost="true"
-       3、app:navGraph="@navigation/main_navation"
+       - **1、android:name="visen.yanyy.jetpackmvvm.navigation.NavHostFragmentHideShow"
+       - **2、app:defaultNavHost="true"
+       - **3、app:navGraph="@navigation/main_navation"
 
             如下所示：
                     <fragment android:id="@+id/host_fragment"

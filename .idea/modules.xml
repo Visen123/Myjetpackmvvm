@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Myjetpackmvvm.iml" filepath="$PROJECT_DIR$/.idea/modules/Myjetpackmvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JetpackMvvm/Myjetpackmvvm.JetpackMvvm.iml" filepath="$PROJECT_DIR$/.idea/modules/JetpackMvvm/Myjetpackmvvm.JetpackMvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/homemoudle/Myjetpackmvvm.homemoudle.iml" filepath="$PROJECT_DIR$/.idea/modules/homemoudle/Myjetpackmvvm.homemoudle.iml" />
+    </modules>
+  </component>
+</project>

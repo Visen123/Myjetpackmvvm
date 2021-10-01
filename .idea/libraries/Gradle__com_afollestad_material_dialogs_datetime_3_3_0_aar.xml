@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:datetime:3.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/86ec201b583567e063036ede8100fd91/jetified-datetime-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/86ec201b583567e063036ede8100fd91/jetified-datetime-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/86ec201b583567e063036ede8100fd91/jetified-datetime-3.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/datetime/3.3.0/abf3b546bee72346c5ec88e2a2d480728d5241ec/datetime-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/datetime/3.3.0/3c8d45a2baab9a65a8f3d7830c8a0ce9d632d0d2/datetime-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

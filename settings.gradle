@@ -1,2 +1,2 @@
 include ':JetpackMvvm', ':homemoudle'
-rootProject.name = "TuPianMY"
+rootProject.name = "Myjetpackmvvm"
